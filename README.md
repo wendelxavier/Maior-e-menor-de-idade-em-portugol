@@ -1,4 +1,7 @@
 # Maior-e-menor-de-idade
+
+
+programa
 { 
 	funcao inicio ()
 	{ 	
